@@ -1,7 +1,8 @@
 #!/bin/bash
-#must place this file at /home/applepie
+#down unioncmd files in /home/applepie
 
 rm -rf /home/applepie/unioncmd
+mkdir -p /home/applepie
 cd /home/applepie
 git clone https://github.com/applepieqwer/unioncmd.git
-cp /home/applepie/unioncmd/uc_init.sh /home/applepie/uc_init.sh
+cp /home/applepie/unioncmd/uc_init.sh /bin/uc_init.sh
