@@ -1,1 +1,1 @@
-5/* * * * * root  /home/applepie/unioncmd/uc_beacon.sh
+*/5 * * * * root  sh /home/applepie/unioncmd/uc_beacon.sh
